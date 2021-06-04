@@ -1,1 +1,1 @@
-# friut-collector-debug-1
+# FRUIT-COLLECTOR-DEBUG-1
